@@ -28,4 +28,4 @@
 </a>
 
 ####
-> 想定制自己的主页，前往 ![](github-readme-stats) https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md
+> 想定制自己的主页，前往 ![github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 
