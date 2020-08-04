@@ -18,7 +18,7 @@
 > QQ：1215618342 
 
 <a href="https://github.com/wangsrGit119">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/wangsrGit119/wangsr-image-bucket/img-article/photo-1596492784531-6e6eb5ea9993.jpg" />
+  <img align="right" src="https://cdn.jsdelivr.net/gh/wangsrGit119/wangsr-image-bucket/img-article/photo-1596492784531-6e6eb5ea9993.jpg" />
 </a>
 
 #### 最新开源
