@@ -3,7 +3,7 @@
 #### github统计信息
 
 <a href="https://github.com/wangsrGit119/wx-suc-blog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=wx-suc-blog" />
 </a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical)
