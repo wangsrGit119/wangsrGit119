@@ -27,6 +27,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=audio-translate&theme=radical" />
 </a>
 
+
+----
+
 #### 定制
 
 > 想定制自己的主页，前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 项目
