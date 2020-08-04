@@ -5,9 +5,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119)](https://github.com/wangsrGit119/github-readme-stats)
+<a href="https://github.com/wangsrGit119">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119&layout=compact" />
+</a>
 
 
 #### 最新开源
