@@ -27,7 +27,7 @@
 
 ----
 <a href="https://github.com/wangsrGit119/suc-chat-bandend">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-all-random&theme=radical" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-chat-bandend" />
 </a>
 
 <a href="https://github.com/wangsrGit119/suc-love-chat">
