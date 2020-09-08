@@ -26,7 +26,7 @@
 #### 最新开源
 
 <a href="https://github.com/wangsrGit119/suc-chat-bandend">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-chats-bandend&theme=radical" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-chat-bandend&theme=radical" />
 </a>
 
 <a href="https://github.com/wangsrGit119/suc-love-chat">
@@ -36,7 +36,7 @@
 ----
 
 <a href="https://github.com/wangsrGit119/wx-suc-blog">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=wx-sucs-blog&theme=radical" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=wx-suc-blog&theme=radical" />
 </a>
 
 <a href="https://github.com/wangsrGit119/audio-translate">
