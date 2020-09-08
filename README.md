@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://github.com/wangsrGit119/suc-love-chat">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-love-chat&theme=radical" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-all-random&theme=radical" />
 </a>
 
 ----
