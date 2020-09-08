@@ -27,11 +27,11 @@
 
 ----
 <a href="https://github.com/wangsrGit119/suc-chat-bandend">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-chat-bandend" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-chat-bandend&theme=dracula" />
 </a>
 
 <a href="https://github.com/wangsrGit119/suc-love-chat">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-love-chat&theme=radical" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=suc-love-chat&theme=dracula" />
 </a>
 
 ----
@@ -50,4 +50,4 @@
 
 #### 定制
 
-> 想定制自己的主页，前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 项目
+> 想定制自己的主页，前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 项目
