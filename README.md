@@ -17,8 +17,9 @@
 #### 个人信息
 > 一枚小菜鸡，专注于技术
 > 个人微信公众号： 苏克分享  （微信小程序同名以开源在下面仓库）
-> QQ：1215618342   QQ群：916135074   wx: sucfufufu620119
-
+<span style="color:blue"> QQ：1215618342</span> &nbsp;<hr/>    
+<span style="color:blue"> QQ群：916135074</span> &nbsp;<hr/>
+<span style="color:blue"> wx: sucfufufu620119</span> &nbsp;<hr/>
 <a href="https://github.com/wangsrGit119">
   <img align="center" height="200px" src="https://cdn.jsdelivr.net/gh/wangsrGit119/wangsr-image-bucket/img-article/photo-1596492784531-6e6eb5ea9993.jpg" />
 </a>
