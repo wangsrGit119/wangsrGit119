@@ -15,11 +15,12 @@
 ----
 
 #### 个人信息
-> 一枚小菜鸡，专注于技术
-><span style="color:blue">个人微信公众号： 苏克分享  （微信小程序同名已开源在下面仓库）</span> &nbsp;
-<span style="color:blue"> QQ：1215618342</span> &nbsp;   
-<span style="color:blue"> QQ群：916135074</span> &nbsp;
-<span style="color:blue"> wx: sucfufufu620119</span> &nbsp;
+> 燕山雪花大如席，片片吹落轩辕台。
+
+![](https://img.shields.io/badge/QQ-1215618342-brightgreen)
+![](https://img.shields.io/badge/QQ%E7%BE%A4-916135074-brightgreen)
+![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-sucfufufu620119-brightgreen)
+![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%8B%8F%E5%85%8B%E5%88%86%E4%BA%AB-yellowgreen)
 <a href="https://github.com/wangsrGit119">
   <img align="center" height="200px" src="https://cdn.jsdelivr.net/gh/wangsrGit119/wangsr-image-bucket/img-article/photo-1596492784531-6e6eb5ea9993.jpg" />
 </a>
