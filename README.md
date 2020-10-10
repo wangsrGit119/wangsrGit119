@@ -16,7 +16,7 @@
 
 #### 个人信息
 > 一枚小菜鸡，专注于技术
-><span style="color:blue">个人微信公众号： 苏克分享  （微信小程序同名以开源在下面仓库）</span> &nbsp;
+><span style="color:blue">个人微信公众号： 苏克分享  （微信小程序同名已开源在下面仓库）</span> &nbsp;
 <span style="color:blue"> QQ：1215618342</span> &nbsp;   
 <span style="color:blue"> QQ群：916135074</span> &nbsp;
 <span style="color:blue"> wx: sucfufufu620119</span> &nbsp;
