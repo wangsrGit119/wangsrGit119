@@ -1,7 +1,7 @@
 ### 你好，我是suc
 
 ----
-
+<p>
 #### github基础统计信息
 <a href="https://github.com/wangsrGit119">
   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical" />
@@ -10,9 +10,9 @@
 <a href="https://github.com/wangsrGit119">
   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119&layout=compact" />
 </a>
+</p>
 
-
-<br/>
+<p>
 ----
 
 #### 个人信息
@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-sucfufufu620119-brightgreen)
 ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%8B%8F%E5%85%8B%E5%88%86%E4%BA%AB-yellowgreen)
 
+</p>
 
 #### 最新开源
 
