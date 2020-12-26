@@ -1,21 +1,24 @@
-### 你好，我是suc
+### 你好，我是suke
 
 ----
-<p>
+
 #### github基础统计信息
+
+<div style="display: flex;">
+
 <a href="https://github.com/wangsrGit119">
   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/wangsrGit119">
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119&layout=compact" />
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119&layout=compact" />
 </a>
-</p>
+
+</div>
 
 
 ----
-<p>
-  
+
 #### 个人信息
 
 > 燕山雪花大如席，片片吹落轩辕台。
@@ -25,7 +28,6 @@
 ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-sucfufufu620119-brightgreen)
 ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%8B%8F%E5%85%8B%E5%88%86%E4%BA%AB-yellowgreen)
 
-</p>
 
 #### 最新开源
 
