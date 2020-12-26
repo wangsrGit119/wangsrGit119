@@ -4,11 +4,11 @@
 
 #### github基础统计信息
 <a href="https://github.com/wangsrGit119">
-  <img align="left" width="200px" src="https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/wangsrGit119">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119&layout=compact" />
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119&layout=compact" />
 </a>
 
 
