@@ -12,10 +12,12 @@
 </a>
 </p>
 
-<p>
-----
 
+----
+<p>
+  
 #### 个人信息
+
 > 燕山雪花大如席，片片吹落轩辕台。
 
 ![](https://img.shields.io/badge/QQ-1215618342-brightgreen)
