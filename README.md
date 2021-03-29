@@ -42,8 +42,8 @@
 
 ----
 
-<a href="https://github.com/wangsrGit119/wx-suc-blog">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=wx-suc-blog&theme=radical" />
+<a href="https://github.com/wangsrGit119/mini-blog-halo">
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=mini-blog-halo&theme=radical" />
 </a>
 
 <a href="https://github.com/wangsrGit119/audio-translate">
