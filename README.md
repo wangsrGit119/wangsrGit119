@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-sucfufufu620119-brightgreen)
 
 
-#### 最新开源
+#### latest
 
 ----
 <a href="https://github.com/wangsrGit119/suc-chat-bandend">
